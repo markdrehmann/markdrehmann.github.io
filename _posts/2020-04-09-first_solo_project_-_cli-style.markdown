@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "First Solo Project - CLI-style"
-date:       2020-04-09 23:30:54 +0000
+title:      "First Solo Project"
+date:       2020-04-09 19:30:55 -0400
 permalink:  first_solo_project_-_cli-style
 ---
 
