@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolia Project - The Bow Tracker"
-date:       2020-12-11 02:35:17 +0000
+date:       2020-12-10 21:35:18 -0500
 permalink:  sinatra_portfolia_project_-_the_bow_tracker
 ---
 
